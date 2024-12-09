@@ -1,5 +1,7 @@
 # appCinetopia
-Cinetopia 🎥
+
+
+
 ![image](https://github.com/user-attachments/assets/4fc13de2-e2e4-4b41-aa19-8e72167c9c3c)
 ![image](https://github.com/user-attachments/assets/777cdc0f-4be9-46bf-ac53-e8d4c53ec0c6)
 
